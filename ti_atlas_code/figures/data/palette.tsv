@@ -1,0 +1,50 @@
+palette_label	label	cluster	category	palette_category
+#1f77b4	B cell	27	B Cell	#1F77B4
+#ff7f0e	B cell activated	34	B Cell	#1F77B4
+#279e68	B cell germinal centre/plasmablasts	31	B Cell	#1F77B4
+#d62728	B cell memory (1)	3	B Cell	#1F77B4
+#aa40fc	B cell memory (2)	8	B Cell	#1F77B4
+#8c564b	B cell naive	1	B Cell	#1F77B4
+#1f77b4	B cell plasma IgA (1)	12	B Cell plasma	#FF7F0E
+#ff7f0e	B cell plasma IgA (2)	2	B Cell plasma	#FF7F0E
+#279e68	B cell plasma IgA (3)	11	B Cell plasma	#FF7F0E
+#1f77b4	Enterocyte middle villus (1)	15	Enterocyte	#279E68
+#ff7f0e	Enterocyte middle villus (2)	20	Enterocyte	#279E68
+#279e68	Enterocyte precursor crypt OLFM4+ KRT20++	17	Enterocyte	#279E68
+#d62728	Enterocyte progenitor crypt OLFM4++ KRT20+ (1)	16	Enterocyte	#279E68
+#aa40fc	Enterocyte progenitor crypt OLFM4++ KRT20+ (2)	22	Enterocyte	#279E68
+#8c564b	Enterocyte top villus	25	Enterocyte	#279E68
+#e377c2	Enterocytes BEST4	43	Enterocyte	#279E68
+#1f77b4	Endothelial cell	45	Mesenchymal	#AA40FC
+#ff7f0e	Fibroblast/Myofibroblasts	41	Mesenchymal	#AA40FC
+#279e68	Pericytes	47	Mesenchymal	#AA40FC
+#d62728	Smooth muscle cell	48	Mesenchymal	#AA40FC
+#1f77b4	Dendritic cell	29	Myeloid	#8C564B
+#ff7f0e	Mac (1)	32	Myeloid	#8C564B
+#279e68	Mac (2)	14	Myeloid	#8C564B
+#d62728	Mac intermediate (1)	26	Myeloid	#8C564B
+#aa40fc	Mac intermediate (2)	36	Myeloid	#8C564B
+#8c564b	Mast	35	Myeloid	#8C564B
+#e377c2	Monocytes	39	Myeloid	#8C564B
+#1f77b4	Endocrine cell	42	Secretory	#E377C2
+#ff7f0e	Goblet cell crypt MKI67+	38	Secretory	#E377C2
+#279e68	Goblet cell middle villus	10	Secretory	#E377C2
+#d62728	Goblet cell top villus	19	Secretory	#E377C2
+#aa40fc	Paneth cell	21	Secretory	#E377C2
+#8c564b	Tuft cell	37	Secretory	#E377C2
+#1f77b4	Stem cell LGR5+	7	Stem cells	#B5BD61
+#ff7f0e	Stem cell MKI67+ (1)	13	Stem cells	#B5BD61
+#279e68	Stem cell MKI67+ (2)	24	Stem cells	#B5BD61
+#1f77b4	ILC1/NKs	40	T Cell	#17BECF
+#ff7f0e	ILC3	46	T Cell	#17BECF
+#279e68	T cell CD4 naive	5	T Cell	#17BECF
+#d62728	T cell CD4 proliferating	44	T Cell	#17BECF
+#aa40fc	T cell CD4+ CXCR6+ memory	9	T Cell	#17BECF
+#8c564b	T cell CD4+ PASK+ CCR7+	6	T Cell	#17BECF
+#e377c2	T cell CD4+ Treg	18	T Cell	#17BECF
+#b5bd61	T cell CD4+ memory	4	T Cell	#17BECF
+#17becf	T cell CD4- CD8-	30	T Cell	#17BECF
+#aec7e8	T cell CD8+ FGFBP2+ effector	33	T Cell	#17BECF
+#ffbb78	T cell CD8+ GZMK+	23	T Cell	#17BECF
+#98df8a	T cell CD8+ tissue-resident	0	T Cell	#17BECF
+#ff9896	T cell gd	28	T Cell	#17BECF

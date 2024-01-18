@@ -1,0 +1,25 @@
+"freeze"	"category"	"sum_n_cells"	"union_degs"
+"Discovery"	"B Cell"	27377	266
+"Discovery"	"B Cell plasma"	47293	92
+"Discovery"	"Myeloid"	12796	450
+"Discovery"	"Secretory"	15647	445
+"Discovery"	"Mesenchymal"	1189	64
+"Discovery"	"Enterocyte"	25024	714
+"Discovery"	"T Cell"	44334	608
+"Discovery"	"Stem cells"	13701	382
+"Replication"	"B Cell"	29810	1537
+"Replication"	"B Cell plasma"	60331	235
+"Replication"	"Myeloid"	11440	722
+"Replication"	"Secretory"	33484	1561
+"Replication"	"Mesenchymal"	1423	284
+"Replication"	"Enterocyte"	50604	2148
+"Replication"	"T Cell"	42906	2149
+"Replication"	"Stem cells"	24553	848
+"Full cohort"	"B Cell"	57187	1752
+"Full cohort"	"B Cell plasma"	107624	338
+"Full cohort"	"Myeloid"	24236	1220
+"Full cohort"	"Secretory"	49131	2206
+"Full cohort"	"Mesenchymal"	2612	339
+"Full cohort"	"Enterocyte"	75628	2786
+"Full cohort"	"T Cell"	87240	3170
+"Full cohort"	"Stem cells"	38254	1074
